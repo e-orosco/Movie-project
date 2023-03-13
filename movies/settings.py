@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-7^rbo2$dv=612^_yn!o%%m=89=5)8xj^lq28kau448jnnjpamb
 DEBUG = True
 
 ALLOWED_HOSTS = ["localhost","movie-project-production-9b58.up.railway.app"]
-CSRF_TRUSTED_ORIGINS = [ "localhost", "https://movie-project-production-9b58.up.railway.app"]
+CSRF_TRUSTED_ORIGINS = [ "https://movie-project-production-9b58.up.railway.app"]
 
 # Application definition
 
