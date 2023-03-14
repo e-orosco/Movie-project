@@ -19,4 +19,4 @@ python manage.py runserver
 
 ## Docs para deploy
 
-[Deploy en railway](./docs/deploy.md)
+[Deploy en railway](./deploy.md)
